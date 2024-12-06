@@ -2,10 +2,11 @@
 [![](https://github.com/esrlabs/chipmunk/actions/workflows/release_next.yml/badge.svg)](https://github.com/esrlabs/chipmunk/actions/workflows/release_next.yml)
 [![](https://github.com/esrlabs/chipmunk/actions/workflows/lint_master.yml/badge.svg)](https://github.com/esrlabs/chipmunk/actions/workflows/lint_master.yml)
 
-# Chipmunk Log Analyzer & Viewer
+# Chipmunk Log Analyzer & Viewer 
+
 
 `chipmunk` is a fast logfile viewer that can deal with huge logfiles (>10 GB). It powers a super
-fast search and is supposed to be a useful tool for developers who have to analyze logfiles.
+fast search and is supposed to be a useful tool for developers who have to analyze logfiles
 
 ## Download/Installation
 
